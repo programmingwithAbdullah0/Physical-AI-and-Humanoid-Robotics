@@ -1,0 +1,3 @@
+[submodule "docu_setup/docs/physical-ai-textbook"]
+	path = docu_setup/docs/physical-ai-textbook
+	url = https://github.com/programmingwithAbdullah0/physical-ai-textbook.git
